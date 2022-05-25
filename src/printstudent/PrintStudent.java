@@ -7,6 +7,7 @@ package printstudent;
 /**
  * we will print  student detail, Array of Object
  * @author utsav
+ * May 25th
  */
 public class PrintStudent {
 
